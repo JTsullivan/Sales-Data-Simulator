@@ -40,7 +40,7 @@
             this.PrimaryActionButton.Name = "PrimaryActionButton";
             this.PrimaryActionButton.Size = new System.Drawing.Size(203, 147);
             this.PrimaryActionButton.TabIndex = 0;
-            this.PrimaryActionButton.Text = "K";
+            this.PrimaryActionButton.Text = "Generate Sales Data";
             this.PrimaryActionButton.UseVisualStyleBackColor = true;
             this.PrimaryActionButton.Click += new System.EventHandler(this.PrimaryActionButton_Click);
             // 
